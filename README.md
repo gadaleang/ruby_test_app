@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Am facut aici o modificare pentru a putea testa git 
